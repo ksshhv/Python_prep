@@ -8,8 +8,8 @@ Self made course for learning Basic Python, referenced from the book - Automate 
 
 ### Learn Basics
 
-Better coding in python need obviously, better practice. But first, one need to learn from the very basics of python programming.
-Serial folders are provided here with python as well as text files for better understanding of the basic stuffs in python in a short way.
+Better coding in python obviously needs, better practice. But first, one needs to learn the very basics of python programming.
+Serial folders are provided here with python as well as text files for better understanding of the basic stuffs in python.
 
 ![](https://codescracker.com/python/images/python-basic-syntax.jpg)
 
@@ -19,7 +19,7 @@ Serial folders are provided here with python as well as text files for better un
 
 From my experience, this book is actually a good book for learning the basics of python programming. With its help one will know
 how to write the basic python code for performing required basic tasks. Also another cool feature of this book is that it will
-provide you with the details about automation with python. That part I haven't mentioned in this repo. You can go though it and 
+provide you with the details about automation with python. That part I haven't mentioned in this repo. You can go through it and 
 can learn it from the book itself.
 
 ![](https://i.ytimg.com/vi/tcMaVNm-FWU/maxresdefault.jpg)
